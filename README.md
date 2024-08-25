@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bollshoy
 - 👀 I'm a FrontEnd developer
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS&Redux
 - 💞️ I can make a website for you $ (Front)
 - 📫 How to reach me t.me/Makssyyymm
 
